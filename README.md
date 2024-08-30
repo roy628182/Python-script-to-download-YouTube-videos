@@ -1,4 +1,4 @@
-# ython-script-to-download-YouTube-videos
+# Python-script-to-download-YouTube-videos
 A Python script to download YouTube videos in various formats
 Download videos in MP4
 Install the required dependencies: pip install -r requirements.txt
